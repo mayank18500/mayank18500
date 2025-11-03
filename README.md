@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mayank Kumar
 🎓 B.Tech in Information Technology  
 💻 Learning Web Dev and Web3  
-🚀 A curious  
+🚀 I am a curious learner
 
 ## 🧠 Skills
 - Java, C, Python, and JavaScript
