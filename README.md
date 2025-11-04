@@ -12,4 +12,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayank18500&label=Profile%20views&color=0e75b6&style=flat)
