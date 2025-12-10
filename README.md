@@ -1,33 +1,115 @@
 <div align="center">
-  <h2>🚀 Mayank Kumar</h2>
-  <p><b>Building the future of the web, one block at a time.</b></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5ZjZ3YzdqZGZ2MHV6eW8zbmV0Zmo3a2xlb3B5Z3c2cjB5aXl6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVBHcZg571vP1Hbb3y/giphy.gif" width="100%" height="auto" style="border-radius: 10px;" alt="Cyberpunk Header"/>
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 About Me</h3>
-      <ul>
-        <li>🎓 <b>Student:</b> B.Tech IT</li>
-        <li>🔭 <b>Building:</b> Samudra Ledger (Blue Carbon Registry)</li>
-        <li>🌱 <b>Learning:</b> Advanced Blockchain Architecture</li>
-        <li>⚡ <b>Fun fact:</b> I love analyzing computer architecture bottlenecks!</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💻 Tech Stack</h3>
-      <img src="[https://img.shields.io/badge/Frontend-React%20%7C%20EJS-blue](https://img.shields.io/badge/Frontend-React%20%7C%20EJS-blue)" />
-      <br/>
-      <img src="[https://img.shields.io/badge/Backend-Node%20%7C%20Express-green](https://img.shields.io/badge/Backend-Node%20%7C%20Express-green)" />
-      <br/>
-      <img src="[https://img.shields.io/badge/Database-PostgreSQL-blue](https://img.shields.io/badge/Database-PostgreSQL-blue)" />
-      <br/>
-      <img src="[https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20JS-orange](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20JS-orange)" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<h3 align="center">📊 GitHub Stats</h3>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mayank+Kumar;Full+Stack+Web+Developer;Building+the+Decentralized+Web;IT+Undergrad+%40+India" alt="Typing SVG" />
+</a>
+
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=tokyonight&hide_border=true)" />
+ 🚀 <b>Exploring the intersection of Scalable Web2 & Trustless Web3</b>
 </p>
+<p align="center">
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Connect_With_Me-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect"/>
+  </a>
+</p>
+
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+
+<br/>
+
+## ⚡ The Arsenal (Tech Stack)
+
+<br/>
+
+### 🧠 Core & Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+### 💻 Frontend & UI
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+
+### 🗄️ Backend & Infrastructure
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### 🔗 Web3 & Blockchain (The Future)
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+
+<br/>
+
+## 🔭 Current Mission: Samudra Ledger
+
+> Building a blockchain-based registry for Blue Carbon credits to ensure transparency in climate action.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+
+<br/>
+
+## 📈 The Data Stream
+
+<br/>
+
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats"/>
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+
+<h3 id="contact">📫 Establish Connection</h3>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="LINK_TO_YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="LINK_TO_YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Crafting code in the digital realm.</i>
+</p>
+
+</div>
