@@ -36,7 +36,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayank's Stats" />
 </p>
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mayank18500&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
