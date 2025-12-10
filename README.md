@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+<img src="https://raw.githubusercontent.com/mayank18500/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
 
 <br/>
 
@@ -56,12 +56,6 @@
 
 
 ## 📈 The Data Stream
-
-<br/>
-
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-
-<br/><br/>
 
 <p align="center">
 <a href="https://github.com/mayank18500/github-readme-stats">
