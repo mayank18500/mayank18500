@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5ZjZ3YzdqZGZ2MHV6eW8zbmV0Zmo3a2xlb3B5Z3c2cjB5aXl6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVBHcZg571vP1Hbb3y/giphy.gif" width="100%" height="auto" style="border-radius: 10px;" alt="Cyberpunk Header"/>
+  <img src="__________" width="100%" height="auto" style="border-radius: 10px;" alt="Cyberpunk Header"/>
 </div>
 
 <div align="center">
@@ -53,21 +53,7 @@
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 <br/>
-<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
-
-<br/>
-
-## 🔭 Current Mission: Samudra Ledger
-
-> Building a blockchain-based registry for Blue Carbon credits to ensure transparency in climate action.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
-
-<br/>
 
 ## 📈 The Data Stream
 
@@ -78,10 +64,10 @@
 <br/><br/>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mayank18500/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mayank18500/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 </p>
@@ -97,13 +83,13 @@
 <h3 id="contact">📫 Establish Connection</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:mayank01082005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="LINK_TO_YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-kumar-3155692a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="LINK_TO_YOUR_TWITTER" target="_blank">
+    <a href="https://x.com/mayank010805" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
