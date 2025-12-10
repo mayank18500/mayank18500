@@ -72,7 +72,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
+<img src="https://raw.githubusercontent.com/mayank18500/readme/master/assets/lines/cyan.png" width="80%" alt="divider">
 
 <h3 id="contact">📫 Establish Connection</h3>
 
