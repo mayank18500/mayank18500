@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mayank+Kumar;Full+Stack+Web+Developer;Decentralized+Web+Enthusiast;IT+Undergrad+%40+India" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mayank+Kumar;Full+Stack+Web+&+App+Developer;Decentralized+Web+Enthusiast;IT+Undergrad+%40+India" />
   </a>
 
   <p><b>🚀 Exploring the intersection of Scalable Web2 & Trustless Web3</b></p>
