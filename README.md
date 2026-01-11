@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="__________" width="100%" height="auto" style="border-radius: 10px;" alt="Cyberpunk Header"/>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mayank+Kumar;Full+Stack+Web+Developer;App+Developer;Decentralized+Web+Enthusiast;IT+Undergrad+%40+India" />
   </a>
