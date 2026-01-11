@@ -25,7 +25,7 @@ Focused on clean architecture, performance, and real-world impact.
 
 ## 🧠 About Me
 
-I’m a **B.Tech IT undergrad** and **Software Development Engineer Intern at IQApex Labs**, where I work on production-ready full-stack systems.
+I’m a **B.Tech IT undergrad**, where I work on production-ready full-stack systems.
 
 I enjoy building:
 - Secure backend APIs  
