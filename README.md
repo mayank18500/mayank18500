@@ -101,18 +101,7 @@ Currently strengthening **DSA**, **system design fundamentals**, and **Web3 inte
 
 ---
 
-## 💼 Experience
 
-**Software Development Engineer Intern — IQApex Labs**  
-*Jan 2026 – Present*
-
-- Built and maintained scalable full-stack applications  
-- Designed REST APIs with validation & error handling  
-- Implemented authentication and RBAC  
-- Worked in agile teams following clean code practices  
-- Deployed applications with CI/CD on Render & Vercel  
-
----
 
 
 ## 📬 Get in Touch
