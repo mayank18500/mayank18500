@@ -114,19 +114,10 @@ Currently strengthening **DSA**, **system design fundamentals**, and **Web3 inte
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&hide_border=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&hide_border=true&theme=tokyonight"/>
-</div>
-
----
 
 ## 📬 Get in Touch
 
 - 📧 Email: mayank01082005@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mayank-kumar-3155692a4/  
-- 🧑‍💻 GitHub: https://github.com/mayank18500  
 
 > Open to internships, collaborations, and serious engineering work.
