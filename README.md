@@ -114,14 +114,6 @@ Currently strengthening **DSA**, **system design fundamentals**, and **Web3 inte
 
 ---
 
-## 🏆 Achievements
-
-- **LeetCode Rating:** 1490 (Top ~25%)  
-- **Smart India Hackathon 2025:** Qualified  
-- **Hacktoberfest Contributor**  
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
