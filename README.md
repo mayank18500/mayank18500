@@ -1,100 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=Mayank%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Mayank%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Ex-SDE%20Intern%20%40%20IQVenus&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
 
-<br/>
+</div>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Ex-SDE+Intern+%40+IQVenus+Technologies;React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Building+real+products+that+ship." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<br/>
-
-<a href="mailto:mayank01082005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mayank-kumar-3155692a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/mayank18500">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://my-portfolio-lilac-three-24.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Building+products+that+ship+to+production.;Geekathon+2026+Winner+%F0%9F%8F%86;LeetCode+1490+%7C+CodeChef+2+Star+%E2%AD%90%E2%AD%90;Open+to+SDE+roles+%26+freelance+work." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayank18500&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayank01082005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kumar-3155692a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-lilac-three-24.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank18500)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mayank18500&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/mayank18500/mayank18500/main/badge-contributor.png" alt="Open Odyssey Contributor"/>
 
-```ts
+## 🧑‍💻 About Me
+
+```typescript
 const mayank = {
-  role:       "Full-Stack Developer",
-  experience: "SDE Intern @ IQVenus Technologies (Jan–May 2026)",
-  education:  "B.Tech IT · Techno Main Salt Lake, Kolkata",
-  stack:      ["React", "Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "Redis"],
-  achievements: {
-    hackathon:  "Geekathon 2026 Winner 🏆",
-    leetcode:   1490,
-    codechef:   "2 Star ⭐⭐",
-    sih:        "Smart India Hackathon 2025 Qualifier",
+  title:    "Full-Stack Developer",
+  company:  "Ex-SDE Intern @ IQVenus Technologies",
+  college:  "B.Tech IT · Techno Main Salt Lake",
+  location: "Kolkata, India 🇮🇳",
+
+  stack: {
+    frontend:  ["React", "TypeScript", "Tailwind"],
+    backend:   ["Node.js", "Express", "REST APIs"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    devops:    ["Docker", "Vercel", "Render"],
   },
-  currentlyLearning: ["DSA", "System Design", "AI/ML Integration"],
+
+  highlights: {
+    bugReduction:  "30% in production",
+    seoRanking:    "Position 1.4 avg",
+    hackathon:     "Geekathon 2026 🏆 Winner",
+    leetcode:      1490,
+    codechef:      "2 Star ⭐⭐",
+  },
+
+  currentlyLearning: ["DSA", "System Design", "AI/ML"],
   openTo: "Full-time SDE roles & freelance projects",
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Tech Stack
+## 🏆 Achievements
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+| 🥇 | Achievement | Details |
+|:---:|---|---|
+| 🏆 | **Geekathon 2026** | Winner — 1st place, full-stack hackathon |
+| 💻 | **LeetCode** | Rating **1490** — consistent DSA solver |
+| ⭐ | **CodeChef** | **2 Star** · Rating 1175 |
+| 🇮🇳 | **Smart India Hackathon** | SIH 2025 Qualifier |
+| 🌐 | **Open Source** | Hacktoberfest Contributor — Open Odyssey |
+| 📈 | **SEO Result** | Position 1.4 · ~69% CTR · 126 clicks in 3 months |
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
+---
 
-**Backend**
+## ⚡ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
-![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+<div align="center">
 
-**Databases & Infrastructure**
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Tools & Platforms**
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+</div>
 
 ---
 
@@ -102,119 +116,104 @@ const mayank = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank18500&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🖥️ Cloud-Desk
-**Real-time collaborative learning platform**
+<a href="https://github.com/this-is-ankit/Cloud-Desk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-ankit&repo=Cloud-Desk&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mayank18500/kriscap-study-hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank18500&repo=kriscap-study-hub&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mayank18500/Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank18500&repo=Dashboard&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+### 🖥️ Cloud-Desk &nbsp; [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://cloud-desk-ytb7.onrender.com/)
+
+> Real-time collaborative learning platform
 
 `React` `Node.js` `MongoDB` `Socket.IO` `WebRTC` `Docker` `Redis`
 
-- Live video (WebRTC), shared Monaco editor, Excalidraw whiteboard
-- Multi-language execution: Python, Java, C++, Go, Rust
-- WebSocket session sync · JWT via Clerk · Tab-switch detection
-- Containerized with Docker + Redis for state management
+- 🎥 Live video (WebRTC) + shared Monaco editor + Excalidraw whiteboard
+- ⚙️ Multi-language execution: Python, Java, C++, Go, Rust
+- 🔐 WebSocket session sync · JWT via Clerk · Tab-switch detection
+- 🐳 Containerized with **Docker** + **Redis** for state management
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/this-is-ankit/Cloud-Desk)
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://cloud-desk-ytb7.onrender.com/)
+---
 
-</td>
-<td width="50%" valign="top">
+### 📚 Freelance EdTech App &nbsp; [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://kriscapeducation.in)
 
-### 📚 Freelance EdTech App
-**Production app built solo for a real client**
+> Production full-stack web app built solo for a real EdTech client
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
-- JWT auth, RESTful APIs, fully responsive design
-- Deployed: Vercel (frontend) + Render (backend)
-- SEO: **position 1.4** · 126 clicks · ~69% CTR in 3 months
+- 🔑 JWT auth, RESTful APIs, fully responsive design
+- ☁️ Deployed: Vercel (frontend) + Render (backend)
+- 📈 SEO: **position 1.4 avg** · 126 clicks · ~69% CTR in 3 months
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/mayank18500/kriscap-study-hub)
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://kriscapeducation.in)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🔐 Admin Dashboard &nbsp; [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://admin-dashboard-qu1c.onrender.com/)
 
-### 🔐 Admin Dashboard
-**Secure role-based admin panel**
+> Secure role-based admin panel
 
 `React` `Node.js` `Express` `PostgreSQL`
 
-- RBAC + multi-theme support
-- Bot protection: Arcjet + Helmet.js
-- Modular REST APIs · Deployed on Render
+- 🛡️ RBAC + multi-theme support
+- 🤖 Bot protection: Arcjet + Helmet.js
+- 🔧 Modular REST APIs · Deployed on Render
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/mayank18500/Dashboard)
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://admin-dashboard-qu1c.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🤖 Fake News Detector
-**AI/ML classification integrated into a web app**
 
-`Python` `Scikit-learn` `Kaggle Dataset` `Full-Stack`
+> AI/ML classification integrated into a web app
+
+`Python` `Scikit-learn` `Kaggle Dataset` `Full-Stack Integration`
 
 - Trained ML classifier on Kaggle dataset
-- Real-time predictions via full-stack web interface
-- Demonstrates AI integration with production web apps
-
-</td>
-</tr>
-</table>
+- Real-time fake news predictions via full-stack web interface
 
 ---
 
-## 🏆 Achievements & Badges
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| 🏆 Geekathon 2026 | **Winner** — 1st place, full-stack hackathon |
-| 💻 LeetCode | **Rating 1490** — consistent DSA problem solving |
-| ⭐ CodeChef | **2 Star** (Rating: 1175) |
-| 🇮🇳 Smart India Hackathon | **SIH 2025 Qualifier** |
-| 🌐 Open Source | **Hacktoberfest Contributor** — Open Odyssey |
+📧 **[mayank01082005@gmail.com](mailto:mayank01082005@gmail.com)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/mayank-kumar-3155692a4/)**  &nbsp;·&nbsp;  🌐 **[Portfolio](https://my-portfolio-lilac-three-24.vercel.app)**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayank18500/mayank18500/main/badge-contributor.png" width="180px" alt="Open Odyssey Contributor Badge"/>
-
-</div>
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-
-📧 **mayank01082005@gmail.com** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mayank-kumar-3155692a4/)** &nbsp;·&nbsp; 🌐 **[Portfolio](https://my-portfolio-lilac-three-24.vercel.app)**
+> *"Code is craft. Ship things that matter."*
 
 <br/>
 
-> *Open to full-time SDE roles, freelance projects, and open source collaborations.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>
