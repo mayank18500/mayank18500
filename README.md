@@ -1,8 +1,14 @@
 <div align="center">
 
-<h1>Mayank Kumar</h1>
-<p><b>Full-Stack Developer &nbsp;·&nbsp; Ex-SDE Intern @ IQVenus Technologies</b></p>
-<p>Building production-grade web applications — clean architecture, real deployments, measurable impact.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=Mayank%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Ex-SDE+Intern+%40+IQVenus+Technologies;React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Building+real+products+that+ship." alt="Typing SVG" />
+</p>
+
+<br/>
 
 <a href="mailto:mayank01082005@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -12,28 +18,44 @@
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://github.com/mayank18500">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://my-portfolio-lilac-three-24.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mayank18500&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech IT undergrad** at Techno Main Salt Lake, Kolkata with hands-on production experience as an SDE Intern at **IQVenus Technologies** (Jan–May 2026).
-
-- Built and shipped **7+ RESTful APIs** in a 3-member agile team
-- Delivered a **30% reduction in production bugs** through debugging and refactoring
-- Freelanced as a **sole full-stack developer** for a live EdTech client — achieved **SEO position 1.4** with ~69% CTR in 3 months
-- **Geekathon 2026 Winner** · LeetCode 1490 · CodeChef 2 Star ⭐⭐
-
-Currently deepening skills in **DSA**, **system design**, and **AI/ML integration**.
+```ts
+const mayank = {
+  role:       "Full-Stack Developer",
+  experience: "SDE Intern @ IQVenus Technologies (Jan–May 2026)",
+  education:  "B.Tech IT · Techno Main Salt Lake, Kolkata",
+  stack:      ["React", "Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "Redis"],
+  achievements: {
+    hackathon:  "Geekathon 2026 Winner 🏆",
+    leetcode:   1490,
+    codechef:   "2 Star ⭐⭐",
+    sih:        "Smart India Hackathon 2025 Qualifier",
+  },
+  currentlyLearning: ["DSA", "System Design", "AI/ML Integration"],
+  openTo: "Full-time SDE roles & freelance projects",
+};
+```
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 **Languages**
 
@@ -76,68 +98,123 @@ Currently deepening skills in **DSA**, **system design**, and **AI/ML integratio
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
 
-### Cloud-Desk &nbsp;·&nbsp; [GitHub](https://github.com/this-is-ankit/Cloud-Desk) · [Live](https://cloud-desk-ytb7.onrender.com/)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" />
+
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Cloud-Desk
 **Real-time collaborative learning platform**
 
-> React · Node.js · MongoDB · Socket.IO · WebRTC · Docker · Redis
+`React` `Node.js` `MongoDB` `Socket.IO` `WebRTC` `Docker` `Redis`
 
-- Live video collaboration (WebRTC), shared Monaco code editor, and Excalidraw whiteboard
-- Multi-language code execution: Python, Java, C++, Go, Rust
-- WebSocket-based session sync, JWT auth via Clerk, tab-switch detection for session integrity
-- Containerized with **Docker**, **Redis** for session/state management
+- Live video (WebRTC), shared Monaco editor, Excalidraw whiteboard
+- Multi-language execution: Python, Java, C++, Go, Rust
+- WebSocket session sync · JWT via Clerk · Tab-switch detection
+- Containerized with Docker + Redis for state management
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/this-is-ankit/Cloud-Desk)
+[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://cloud-desk-ytb7.onrender.com/)
 
-### Freelance EdTech Web App &nbsp;·&nbsp; [GitHub](https://github.com/mayank18500/kriscap-study-hub) · [Live](https://kriscapeducation.in)
-**Production full-stack app for a real client**
+</td>
+<td width="50%" valign="top">
 
-> React · TypeScript · Node.js · Express · MongoDB
+### 📚 Freelance EdTech App
+**Production app built solo for a real client**
 
-- Sole developer — JWT auth, RESTful APIs, responsive design
-- Deployed on Vercel (frontend) + Render (backend)
-- SEO via Google Search Console: **position 1.4 avg ranking · 126 clicks · ~69% CTR** in 3 months
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
 
----
+- JWT auth, RESTful APIs, fully responsive design
+- Deployed: Vercel (frontend) + Render (backend)
+- SEO: **position 1.4** · 126 clicks · ~69% CTR in 3 months
 
-### Admin Dashboard &nbsp;·&nbsp; [GitHub](https://github.com/mayank18500/Dashboard) · [Live](https://admin-dashboard-qu1c.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/mayank18500/kriscap-study-hub)
+[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://kriscapeducation.in)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Admin Dashboard
 **Secure role-based admin panel**
 
-> React · Node.js · Express · PostgreSQL
+`React` `Node.js` `Express` `PostgreSQL`
 
-- Role-Based Access Control (RBAC) with multi-theme support
-- Bot protection via **Arcjet** + **Helmet.js**
-- Modular REST APIs, deployed on Render
+- RBAC + multi-theme support
+- Bot protection: Arcjet + Helmet.js
+- Modular REST APIs · Deployed on Render
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/mayank18500/Dashboard)
+[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://admin-dashboard-qu1c.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Fake News Detector
+**AI/ML classification integrated into a web app**
+
+`Python` `Scikit-learn` `Kaggle Dataset` `Full-Stack`
+
+- Trained ML classifier on Kaggle dataset
+- Real-time predictions via full-stack web interface
+- Demonstrates AI integration with production web apps
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Fake News Detection
-**AI/ML integration project**
+## 🏆 Achievements & Badges
 
-> Python · Scikit-learn · Kaggle Dataset · Full-Stack Web Integration
+<div align="center">
 
-- Trained a machine learning classifier on a Kaggle dataset to detect fake news
-- Integrated the model into a full-stack web interface for real-time predictions
-
----
-
-## Achievements
-
-| | |
+| Achievement | Details |
 |---|---|
-| 🏆 | **Geekathon 2026 Winner** — 1st place, full-stack hackathon |
-| 💻 | **LeetCode Rating: 1490** — consistent DSA problem solving |
-| ⭐ | **CodeChef: 2 Star** (Rating: 1175) |
-| 🇮🇳 | Qualified **Smart India Hackathon (SIH) 2025** |
-| 🌐 | Open Source contributor — Hacktoberfest (Open Odyssey) |
+| 🏆 Geekathon 2026 | **Winner** — 1st place, full-stack hackathon |
+| 💻 LeetCode | **Rating 1490** — consistent DSA problem solving |
+| ⭐ CodeChef | **2 Star** (Rating: 1175) |
+| 🇮🇳 Smart India Hackathon | **SIH 2025 Qualifier** |
+| 🌐 Open Source | **Hacktoberfest Contributor** — Open Odyssey |
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayank18500/mayank18500/main/badge-contributor.png" width="180px" alt="Open Odyssey Contributor Badge"/>
+
+</div>
 
 ---
 
-## Get in Touch
+## 📬 Get in Touch
 
-- 📧 mayank01082005@gmail.com
-- 💼 [linkedin.com/in/mayank-kumar-3155692a4](https://www.linkedin.com/in/mayank-kumar-3155692a4/)
-- 🌐 [Portfolio](https://my-portfolio-lilac-three-24.vercel.app)
+<div align="center">
 
-> Open to full-time SDE roles, freelance projects, and open source collaborations.
+📧 **mayank01082005@gmail.com** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mayank-kumar-3155692a4/)** &nbsp;·&nbsp; 🌐 **[Portfolio](https://my-portfolio-lilac-three-24.vercel.app)**
+
+<br/>
+
+> *Open to full-time SDE roles, freelance projects, and open source collaborations.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
+
+</div>
