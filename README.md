@@ -113,7 +113,7 @@ const mayank = {
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
 
 <div align="center">
 
