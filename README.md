@@ -133,18 +133,12 @@ const mayank = {
 
 <div align="center">
 
-<a href="https://github.com/this-is-ankit/Cloud-Desk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-ankit&repo=Cloud-Desk&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/mayank18500/kriscap-study-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank18500&repo=kriscap-study-hub&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/this-is-ankit/Cloud-Desk"></a>
+<a href="https://github.com/mayank18500/kriscap-study-hub"></a>
 
 <br/><br/>
 
-<a href="https://github.com/mayank18500/Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank18500&repo=Dashboard&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/mayank18500/Dashboard"></a>
 
 </div>
 
