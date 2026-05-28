@@ -117,9 +117,6 @@ const mayank = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank18500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank18500&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank18500&theme=tokyonight&hide_border=true" />
