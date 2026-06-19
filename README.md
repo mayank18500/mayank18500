@@ -68,7 +68,7 @@ const mayank = {
 |:---:|---|---|
 | 🏆 | **Geekathon 2026** | Winner — 1st place, full-stack hackathon |
 | 💻 | **LeetCode** | Rating **1490** — consistent DSA solver |
-| ⭐ | **CodeChef** | **2 Star** · Rating 1175 |
+| ⭐ | **CodeChef** | **2 Star** · Rating 1238 |
 | 🇮🇳 | **Smart India Hackathon** | SIH 2025 Qualifier |
 | 🌐 | **Open Source** | Hacktoberfest Contributor — Open Odyssey |
 | 📈 | **SEO Result** | Position 1.4 · ~69% CTR · 126 clicks in 3 months |
