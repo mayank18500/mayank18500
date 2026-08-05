@@ -210,3 +210,67 @@ const mayank = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
+##---------------------------------------------------------------
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=250&section=header&text=Mr.%20Himanshu%20Kumar%20Dubey&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%26%20Web3%20Engineer%20%7C%20B.Tech%20IT%20%7C%20Arch%20Linux%20Power%20User&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=%3E_Building+decentralized+apps+and+scalable+backends.;%3E_Geekathon+2026+Winner+%F0%9F%8F%86;%3E_Currently+compiling+on+Arch+Linux+%F0%9F%90%A7;%3E_Open+to+SDE+and+Web3+opportunities." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:mayank01082005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mayank-kumar-3155692a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://my-portfolio-lilac-three-24.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/mayank18500"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mayank18500&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayank18500&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+## 🧑‍💻 System Initialization: `whoami`
+
+<div align="center">
+<table width="100%">
+<tr>
+<td width="60%">
+
+```typescript
+const himanshu = {
+  title:     "Full-Stack & Web3 Developer",
+  role:      "Intern & Technical Member @ IIC",
+  education: "B.Tech Information Technology",
+  os:        "Arch Linux (tty1)",
+  
+  core_stack: {
+    frontend:  ["Next.js", "React", "React Native"],
+    backend:   ["Node.js", "PostgreSQL", "MongoDB"],
+    web3:      ["Solidity", "Hardhat", "EVM"],
+  },
+
+  hobbies: [
+    "Weightlifting 🏋️", 
+    "Listening to Spotify 🎧", 
+    "Exploring Biophilic Fashion 🌿"
+  ],
+};
