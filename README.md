@@ -47,7 +47,7 @@ const mayank = {
     bugReduction:  "30% in production",
     seoRanking:    "Position 1.4 avg",
     hackathon:     "Geekathon 2026 🏆 Winner",
-    leetcode:      1490,
+    leetcode:      1504,
     codechef:      "2 Star ⭐⭐",
   },
 
@@ -67,8 +67,8 @@ const mayank = {
 | 🥇 | Achievement | Details |
 |:---:|---|---|
 | 🏆 | **Geekathon 2026** | Winner — 1st place, full-stack hackathon |
-| 💻 | **LeetCode** | Rating **1490** — consistent DSA solver |
-| ⭐ | **CodeChef** | **2 Star** · Rating 1360 |
+| 💻 | **LeetCode** | Rating **1504** — consistent DSA solver |
+| ⭐ | **CodeChef** | **2 Star** · Rating 1410 |
 | ⚡ | **Codeforces** | **Newbie** · Rating 410 |
 | 🇮🇳 | **Smart India Hackathon** | SIH 2025 Qualifier |
 | 🌐 | **Open Source** | Hacktoberfest Contributor — Open Odyssey |
