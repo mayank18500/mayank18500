@@ -72,7 +72,7 @@ const mayank = {
 | ⚡ | **Codeforces** | **Newbie** · Rating 410 |
 | 🇮🇳 | **Smart India Hackathon** | SIH 2025 Qualifier |
 | 🌐 | **Open Source** | Hacktoberfest Contributor — Open Odyssey |
-| 📈 | **SEO Result** | Position 1.4 · ~69% CTR · 126 clicks in 3 months |
+| 📈 | **SEO Result** | Position 1.4 · ~74% CTR · 2k clicks in 3 months |
 
 </div>
 
